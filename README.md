@@ -7,7 +7,7 @@ progress — all stored privately on your own device.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rifat-Profiles/to-do-app/releases/download/v1.1.0/TO.DO-v1.1.0.apk">
+  <a href="https://github.com/Rifat-Profiles/to-do-app/releases/download/v1.1.0/TO.DO_v1.1.0.apk">
     <img src="https://img.shields.io/github/v/release/rifat-profiles/to-do-app?label=Download&style=for-the-badge&color=6C63FF"/>
   </a>
   <img src="https://img.shields.io/badge/Platform-Android-brightgreen?style=for-the-badge"/>
